@@ -1,0 +1,84 @@
+{
+  "batch_size": {
+    "_type": "uniform",
+    "_value": [
+      512,
+      512
+    ]
+  },
+  "sliding_window": {
+    "_type": "uniform",
+    "_value": [
+      5,
+      240
+    ]
+  },
+  "hidden_activation": {
+    "_type": "choice",
+    "_value": [
+      "relu"
+    ]
+  },
+  "output_activation": {
+    "_type": "choice",
+    "_value": [
+      "sigmoid"
+    ]
+  },
+  "l2_regularizer": {
+    "_type": "uniform",
+    "_value": [
+      1e-08,
+      1e-03
+    ]
+  },
+  "learning_rate": {
+    "_type": "uniform",
+    "_value": [
+      1e-08,
+      1e-03
+    ]
+  },
+  "drop_rate": {
+    "_type": "uniform",
+    "_value": [
+      1e-08,
+      1e-02
+    ]
+  },
+  "epochs": {
+    "_type": "uniform",
+    "_value": [
+      3,
+      3
+    ]
+  },
+  "latent_dim": {
+    "_type": "uniform",
+    "_value": [
+      2,
+      2
+    ]
+  },
+  "n_neurons_layer1": {
+    "_type": "uniform",
+    "_value": [
+      64,
+      64
+    ]
+  },
+  "n_neurons_layer2": {
+    "_type": "uniform",
+    "_value": [
+      32,
+      32
+    ]
+  },
+  "n_neurons_layer3": {
+    "_type": "uniform",
+    "_value": [
+      16,
+      16
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+searchSpaceFile: /Users/sunwu/SW-Research/py-search-lib/pysearchlib/test/nni_test_search_space.json
+experiment_name: TEST_RESUME_DAT-DEBUG_NTR-RS_MTN-10000_MTC-1_RET-NONE_SED-0_DSM-_DSR-_MON-VAE_MEF-NNI_DEBUG_MODEL.PY
+trial_command: PYTHONHASHSEED=0 python nni_debug_model.py   --m_dataset DEBUG  --seed 0  --data_sample_method   --data_sample_rate   --model VAE  --gpus None
+trial_code_directory: /Users/sunwu/SW-Research/py-search-lib/pysearchlib/test
+max_trial_number: 10000
+trial_concurrency: 1
+experimentWorkingDirectory: /Users/sunwu/SW-Research/py-search-lib/nni-experiments
+tuner:
+  name: RS
+  class_args:
+    
+
+training_service:
+  platform: local

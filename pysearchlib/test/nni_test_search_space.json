@@ -1,0 +1,10 @@
+{
+              "batch_size": {
+                    "_type": "uniform",
+                    "_value": [
+                      256,
+                      1024
+                    ]
+               }
+            }
+        

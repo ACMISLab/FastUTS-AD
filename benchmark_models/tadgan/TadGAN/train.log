@@ -1,0 +1,109 @@
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.018 critic z loss -0.272 
+encoder loss 0.019 decoder loss 0.346
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -0.010 critic z loss 0.302 
+encoder loss 0.071 decoder loss -0.204
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -0.001 critic z loss -0.296 
+encoder loss 0.052 decoder loss 0.393
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.084 critic z loss 0.061 
+encoder loss -0.024 decoder loss 0.034
+
+DEBUG:root:Epoch 1
+DEBUG:root:Critic training done in epoch 1
+DEBUG:root:Encoder decoder training done in epoch 1
+DEBUG:root:critic x loss 0.083 critic z loss 0.060 
+encoder loss -0.022 decoder loss 0.037
+
+DEBUG:root:Epoch 2
+DEBUG:root:Critic training done in epoch 2
+DEBUG:root:Encoder decoder training done in epoch 2
+DEBUG:root:critic x loss 0.081 critic z loss 0.062 
+encoder loss -0.020 decoder loss 0.035
+
+DEBUG:root:Epoch 3
+DEBUG:root:Critic training done in epoch 3
+DEBUG:root:Encoder decoder training done in epoch 3
+DEBUG:root:critic x loss 0.079 critic z loss 0.063 
+encoder loss -0.019 decoder loss 0.024
+
+DEBUG:root:Epoch 4
+DEBUG:root:Critic training done in epoch 4
+DEBUG:root:Encoder decoder training done in epoch 4
+DEBUG:root:critic x loss 0.078 critic z loss 0.062 
+encoder loss -0.017 decoder loss 0.042
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.006 critic z loss 0.341 
+encoder loss 0.054 decoder loss -0.250
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.037 critic z loss 0.370 
+encoder loss 0.016 decoder loss -0.297
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.027 critic z loss 0.086 
+encoder loss 0.029 decoder loss -0.012
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.052 critic z loss 0.026 
+encoder loss 0.001 decoder loss 0.059
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.030 critic z loss 0.202 
+encoder loss 0.024 decoder loss -0.128
+
