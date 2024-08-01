@@ -43,10 +43,10 @@ drwxrwxrwx  3 x  staff     96 Jul 31 19:22 v_debug_dev_test_vus_roc_0.001_random
 ```
 
 - `v_debug_dev_test_vus_roc_0.001_random`:  Directory for calculated metrics; each metric is saved in a .bz2 file.
-- `v_debug_dev_test_vus_roc_0.001_random_original_metrics.xls`: File containing all metrics from the
+- `v_debug_dev_test_vus_roc_0.001_random_original_metrics.xlsx`: File containing all metrics from the
   v_debug_dev_test_vus_roc_0.001_random directory.
 - `v_debug_dev_test_vus_roc_0.001_random.{bz2,xlsx}`: Aggregation files
-  for `v_debug_dev_test_vus_roc_0.001_random_original_metrics.xls`, saved in two formats for ease of viewing and
+  for `v_debug_dev_test_vus_roc_0.001_random_original_metrics.xlsx`, saved in two formats for ease of viewing and
   calculation.
 
 ##  References
